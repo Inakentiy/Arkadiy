@@ -1,0 +1,182 @@
+D:\Цгоев\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\Цгоев\game\game\obj\Debug\game.Form1.resources
+D:\Цгоев\game\game\obj\Debug\game.Properties.Resources.resources
+D:\Цгоев\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+D:\Цгоев\game\game\obj\Debug\game.DialogBox.resources
+D:\Цгоев\game\game\bin\Debug\game.exe
+D:\Цгоев\game\game\bin\Debug\game.pdb
+D:\Цгоев\game\game\obj\Debug\game.exe
+D:\Цгоев\game\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.exe
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.pdb
+C:\Users\Учитель\Desktop\game2.0\game\bin\Debug\game.exe
+C:\Users\Учитель\Desktop\game2.0\game\bin\Debug\game.pdb
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.Form1.resources
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Учитель\Desktop\game2.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game2.1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.exe
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.pdb
+C:\Users\Учитель\Desktop\game2.1\game\bin\Debug\game.exe
+C:\Users\Учитель\Desktop\game2.1\game\bin\Debug\game.pdb
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.DialogBox.resources
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.Form1.resources
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Учитель\Desktop\game2.1\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game3.0\game\bin\Debug\game.pdb
+E:\game3.0\game\obj\Debug\game.exe
+E:\game3.0\game\obj\Debug\game.pdb
+E:\game3.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+E:\game3.0\game\obj\Debug\game.DialogBox.resources
+E:\game3.0\game\obj\Debug\game.Form1.resources
+E:\game3.0\game\obj\Debug\game.Properties.Resources.resources
+E:\game3.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+E:\game3.0\game\bin\Debug\game.exe
+E:\game3.0\game\bin\Debug\game.pdb
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.exe
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.pdb
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Учитель\Desktop\game3.0\game\bin\Debug\game.exe
+C:\Users\Учитель\Desktop\game3.0\game\bin\Debug\game.pdb
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Учитель\Desktop\game3.0\game\obj\Debug\game.LIST.resources
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.exe
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.pdb
+C:\Users\Ученик\Desktop\game4.0\game\bin\Debug\game.exe
+C:\Users\Ученик\Desktop\game4.0\game\bin\Debug\game.pdb
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.Form1.resources
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Ученик\Desktop\game4.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.Form1.resources
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.exe
+C:\Users\ALAN\Desktop\game4.0\game\obj\Debug\game.pdb
+C:\Users\ALAN\Desktop\game4.0\game\bin\Debug\game.exe
+C:\Users\ALAN\Desktop\game4.0\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game4.1\game\obj\Debug\game.pdb
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.exe
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.pdb
+C:\Users\Учитель\Desktop\game5.0\game\bin\Debug\game.exe
+C:\Users\Учитель\Desktop\game5.0\game\bin\Debug\game.pdb
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.Form1.resources
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Учитель\Desktop\game5.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\УМНИК\game5.1\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game5.1\game\obj\Debug\game.pdb
+D:\УМНИК\game5.1\game\bin\Debug\game.exe
+D:\УМНИК\game5.1\game\bin\Debug\game.pdb
+D:\УМНИК\game5.1\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\УМНИК\game5.1\game\obj\Debug\game.DialogBox.resources
+D:\УМНИК\game5.1\game\obj\Debug\game.Form1.resources
+D:\УМНИК\game5.1\game\obj\Debug\game.Properties.Resources.resources
+D:\УМНИК\game5.1\game\obj\Debug\game.csproj.GenerateResource.Cache
+D:\УМНИК\game5.1\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\УМНИК\game5.1\game\obj\Debug\game.exe
+D:\УМНИК\game5.1\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\bin\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\bin\Debug\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.exe
+C:\Users\Сергей Цгоев\Desktop\game6.0\game\obj\Debug\game.pdb
+E:\конструктор\game\obj\Debug\game.pdb
+E:\конструктор\game\bin\Debug\game.pdb
+E:\конструктор\game\obj\Debug\game.DialogBox.resources
+E:\конструктор\game\obj\Debug\game.Form1.resources
+E:\конструктор\game\obj\Debug\game.Form2.resources
+E:\конструктор\game\obj\Debug\game.Properties.Resources.resources
+E:\конструктор\game\obj\Debug\game.csproj.GenerateResource.Cache
+E:\конструктор\game\bin\Debug\game.exe
+E:\конструктор\game\obj\Debug\game.exe
+E:\конструктор\game\obj\Debug\game.GS.resources
+E:\конструктор\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\конструктор\game\bin\Debug\game.exe
+D:\конструктор\game\bin\Debug\game.pdb
+D:\конструктор\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\конструктор\game\obj\Debug\game.DialogBox.resources
+D:\конструктор\game\obj\Debug\game.Form1.resources
+D:\конструктор\game\obj\Debug\game.Form2.resources
+D:\конструктор\game\obj\Debug\game.GS.resources
+D:\конструктор\game\obj\Debug\game.Properties.Resources.resources
+D:\конструктор\game\obj\Debug\game.csproj.GenerateResource.Cache
+D:\конструктор\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\конструктор\game\obj\Debug\game.exe
+D:\конструктор\game\obj\Debug\game.pdb

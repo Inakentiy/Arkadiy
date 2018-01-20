@@ -1,0 +1,10 @@
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\bin\Release\game.exe
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\bin\Release\game.pdb
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.DialogBox.resources
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.Form1.resources
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.Properties.Resources.resources
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.csproj.GenerateResource.Cache
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.exe
+C:\Users\Сергей Цгоев\Desktop\game5.2\game\obj\Release\game.pdb
