@@ -22,7 +22,7 @@ namespace game
         bool Proverka;
         bool AddChoiceTest = true;
         bool test;
-        public string Tree = "Tree.txt";
+        public string Tree = "Tree.ADS";
         public string papka = "TREE/";
         int addchoice = 0;
         int SaveAddChoice = 0;
@@ -260,20 +260,6 @@ namespace game
             game_text1.Parent = pictureBox1;
             this.game_text1.BackColor = System.Drawing.Color.Transparent;
             game_text1.Location = new Point(0, 304);
-            /* for (int i = 0; i < 6; i++)
-             {
-                 Label c = new Label();
-                 b.Add(c);
-                 b[i].Location = new Point(this.ClientSize.Width / 3, i * 20);
-                 //fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-                 pictureBox1.Controls.Add(b[i]);
-                 b[i].BackColor = Color.Transparent;
-                 b[i].ForeColor = Color.Red;
-                 game_text1.Parent = pictureBox1;
-                 // this.SetStyle(ControlStyles.SupportsTransparentBackColor, true);
-                 this.game_text1.BackColor = System.Drawing.Color.Transparent;
-                 game_text1.Location = new Point (0, 304);
-             }*/
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -307,22 +293,6 @@ namespace game
                     AddChoice.Enabled = false;
                     textBox1.Enabled = false;
                 }
-                // b[k].Text = textBox1.Text;
-                //  NewList = textBox1.Text; StreamReader ADS = new StreamReader(papka + Tree);
-                /* StreamReader ADS = new StreamReader(papka + Tree);
-                 while ((READER = ADS.ReadLine()) != null)
-                 {
-                     if (READER == "&|#")
-                     {
-                         if ((READER = ADS.ReadLine()) == textBox1.Text)
-                         {
-                             MessageBox.Show("Придумайте другое имя!");
-                             AddChoiceTest = false;
-                             break;
-                         }
-                     }
-
-                 }*/
                 if (AddChoiceTest)
                 {
                     if (Rurik.Count == 0)
@@ -381,7 +351,7 @@ namespace game
         }
         private void Start()//При запуске программы(доработка)
         {
-            StreamReader ADS = new StreamReader("TREE/Tree.txt");
+            StreamReader ADS = new StreamReader("TREE/Tree.ADS");
             while((READER = ADS.ReadLine()) != null)
             {
                 Inakenty.Add(READER);
@@ -552,7 +522,7 @@ namespace game
             public string MUSIC;
             public int CHOICE;
             public List<string> palci = new List<string>();
-            public string Tree = "Tree.txt";
+            public string Tree = "Tree.ADS";
             public string papka = "TREE/";
             string READER = "";
             int A = 0;

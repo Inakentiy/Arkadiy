@@ -180,3 +180,14 @@ D:\конструктор\game\obj\Debug\game.csproj.GenerateResource.Cache
 D:\конструктор\game\obj\Debug\game.csproj.CoreCompileInputs.cache
 D:\конструктор\game\obj\Debug\game.exe
 D:\конструктор\game\obj\Debug\game.pdb
+D:\Arkadiy\конструктор\game\bin\Debug\game.exe
+D:\Arkadiy\конструктор\game\bin\Debug\game.pdb
+D:\Arkadiy\конструктор\game\obj\Debug\game.DialogBox.resources
+D:\Arkadiy\конструктор\game\obj\Debug\game.Form1.resources
+D:\Arkadiy\конструктор\game\obj\Debug\game.Form2.resources
+D:\Arkadiy\конструктор\game\obj\Debug\game.GS.resources
+D:\Arkadiy\конструктор\game\obj\Debug\game.Properties.Resources.resources
+D:\Arkadiy\конструктор\game\obj\Debug\game.csproj.GenerateResource.Cache
+D:\Arkadiy\конструктор\game\obj\Debug\game.exe
+D:\Arkadiy\конструктор\game\obj\Debug\game.pdb
+D:\Arkadiy\конструктор\game\obj\Debug\game.csprojResolveAssemblyReference.cache

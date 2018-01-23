@@ -11,7 +11,7 @@ namespace game
     public partial class GS : Form
     {
         Form2 MenuForm;
-        public GS(Form2 menuform)
+        public GS(Form2 menuform, string Game)
         {
             InitializeComponent();
             MenuForm = menuform;
@@ -23,14 +23,17 @@ namespace game
             WindowState = FormWindowState.Maximized;
             MaximizeBox = false;
             //Continue.Visible = false;
-            Pause.Location = new Point(350, 300);
-            //Pause.Size(781, 500);
+            Pause.Height = 386;
+            Pause.Width = 325;
+            Pause.Location = new Point(this.Width / 2 - Pause.Width/2, this.Size.Height/2 - Pause.Height/2);
+            Picture.Height = this.Height;
+            Picture.Width = this.Width;
             Pause.Parent = Picture;
             Continue.Parent = Pause;
-            Continue.Location = new Point (20, 10);
             Continue.Text = "Продолжить";
             Continue.AutoSize = true;
-            
+            Continue.Location = new Point (Pause.Width/2 - Continue.Width/2, 20);
+
         }
 
         private void GS_FormClosing(object sender, FormClosingEventArgs e)
@@ -41,6 +44,11 @@ namespace game
         private void GS_KeyDown(object sender, KeyEventArgs e)
         {
             //e.KeyCode == Keys.Escape;
+        }
+
+        private void Picture_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
